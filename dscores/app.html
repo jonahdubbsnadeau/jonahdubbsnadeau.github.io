@@ -1,0 +1,129 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>D-Score Calculator</title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+    </head>
+    <body>
+        <header>
+            <div id="leftHeader">
+                <div id="codeOfPoints">
+                    <input type="radio" id="2021" name="selectCoP" value="2022" />
+                    <label for="2022">2022-2024 CoP</label>
+                    <input type="radio" id="2017" name="selectCoP" value="2017" checked/>
+                    <label for="2017">2017-2021 CoP</label>
+                </div>
+                <div id="apparatus">
+                    <button class="apparatus" id="vault">Vault</button>
+                    <button class="apparatus activeApp" id="bars">Bars</button>
+                    <button class="apparatus" id="beam">Beam</button>
+                    <button class="apparatus" id="floor">Floor</button>
+                </div>
+            </div>
+            <div id="rightHeader">
+                <div id="help">
+                    <a>Help</a>
+                </div>
+            </div>
+        </header>
+        <main>
+            <div class="pane" id="leftPane">
+                <div id="routineEditor">
+                    <div id="elements"></div>
+                    <div id="actions">
+                        <button id="addElement" class="mainButton">Add Element</button>
+                        <button id="restart" class="mainButton">Start Over</button>
+                    </div>
+                </div>
+                <div id="scoreDisplay">
+                    <div id="scoreHeader">D-Score:</div>
+                    <div id="scoreTotal">0.0</div>
+                    <button class="collapsible">Details</button>
+                    <div id="scoreDetails">
+                        <div id="scoreDV">
+                            <div id="valuesContainer">
+                                <span id="values">DV:</span>
+                                <button id="valuesInfo">&#9432</button>
+                            </div>
+                            <div id="acroValuesContainer" style="display:none">
+                                <span id="acroValues" >Acro:</span>
+                                <button id="acroValuesInfo">&#9432</button>
+                            </div>
+                            <div id="danceValuesContainer" style="display:none">
+                                <span id="danceValues">Dance:</span>
+                                <button id="danceValuesInfo">&#9432</button>
+                            </div>
+                            <div id="dismountContainer">
+                                <span id="dismount">Dismount:</span>
+                                <button id="dismountInfo">&#9432</button>
+                            </div>
+                        </div>
+                        <div id="scoreCVContainer">
+                            <span id="scoreCV">CV: 0.0</span>
+                            <button id="scoreCVInfo">&#9432</button>
+                        </div>
+                        <div id="scoreCRContainer">
+                            <span id="scoreCR">CR: 0.0</span>
+                            <button id="scoreCRInfo">&#9432</button>
+                        </div>
+                        <div id="scoreNotes"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="pane" id="rightPane">
+                <div class="right" style="display:none" id="viewNav">
+                    <button class="mainButton" id="backButton">< Back</button>
+                    <button class="mainButton" id="cancelButton">Cancel</button>
+                </div>
+                <div class="right" id="viewContainer">
+                    <div class="view" id="defaultView">
+                        <p>As you add elements to your routine, your options will appear here.</p>
+                    </div>
+                    <div class="dynamicView" style="display:none" id="categoryTableView">
+                        <table class="interactiveTable dynamicTable" id="categoryTable"></table>
+                    </div>
+                    <div class="dynamicView" style="display:none" id="elementTableView">
+                        <table class="interactiveTable dynamicTable" id="elementTable"></table>
+                    </div>
+                    <div class="view" style="display:none" id="connectionTypePromptView">
+                        <h3>Is your connection indirect or direct?</h3>
+                        <p>Indirect connections contain hand-support elements (e.g. round-off, back handpsring, etc.) performed between saltos. Direct connections do not.</p>
+                        <table class="interactiveTable" id="connectionTypeTable">
+                            <tr>
+                                <td class="interactiveCell" id="indirect">Indirect</td>
+                                <td class="interactiveCell" id="direct">Direct</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <div class="modal" id="explanationModal">
+            <div class="modalContent">
+                <div class="closeModal">&times;</div>
+                <div id="explanation"></div>
+                <img id="explanataionImage" />    
+            </div>
+        </div>
+        <div class="modal" id="elementModal">
+            <div class="modalContent">
+                <div class="closeModal">&times;</div>
+                <div><h3 id="elementName"></h3></div>
+                <div><span id="elementDescription"></span></div>
+                <div>
+                    <img id="elementImage" onerror="imageNotFound()"/>
+                    <div id="imageSourcedFrom">GIF sourced from https://wagymnastics.fandom.com/wiki/Gymnastics_Wiki</div>
+                    <div id="imageNotFound">No image available.</div>
+                </div>
+    
+            </div>
+        </div>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="elements.js"></script>
+    <script src="cv.js"></script>
+    <script src="calc.js"></script>
+    <script src="constants.js"></script>
+    <script src="ui.js"></script>
+</html>

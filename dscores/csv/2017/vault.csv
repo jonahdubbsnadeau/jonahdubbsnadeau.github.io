@@ -1,0 +1,87 @@
+﻿id,name,nickname,description,code,value,category,subcategory
+0,Front handspring,,Handspring fwd,1,20,No Salto,Front Handspring Entry
+1,Front handspring 1/2 off,,Handspring fwd on – 1⁄2 turn (180°) off,1.01,24,No Salto,Front Handspring Entry
+2,Front handspring 1/1 off,,Handspring fwd on – 1/1 turn (360°) off,1.02,30,No Salto,Front Handspring Entry
+3,Front handspring 3/2 off,,Handspring fwd on – 11⁄2 turn (540°) off,1.03,36,No Salto,Front Handspring Entry
+4,Front handspring 2/1 off,,Handspring fwd on – 2/1 turn (720°) off,1.04,40,No Salto,Front Handspring Entry
+5,Front handspring 5/2 off,,Handspring fwd on – 21⁄2 turn (900°) off,1.05,44,No Salto,Front Handspring Entry
+6,Yamashita,,Yamashita,1.1,24,No Salto,Front Handspring Entry
+7,Yamashita 1/2,,Yamashita with 1⁄2 turn (180°) off,1.11,28,No Salto,Front Handspring Entry
+8,Yamashita 1/1,,Yamashita with 1/1 turn (360°) off,1.12,32,No Salto,Front Handspring Entry
+9,Front handspring 1/2 on,,Handspring fwd with 1⁄2 turn (180°) on – repulsion off,1.2,20,No Salto,Front Handspring 1/2 On Entry
+10,"Front handspring 1/2 on, 1/2 off",,Handspring fwd with 1⁄2 turn (180°) on – 1⁄2 turn (180°) off (in either direction),1.21,28,No Salto,Front Handspring 1/2 On Entry
+11,"Front handspring 1/2 on, 1/1 off",,Handspring fwd with 1⁄2 turn (180°) on – 1/1 turn (360°) off,1.22,30,No Salto,Front Handspring 1/2 On Entry
+12,"Front handspring 1/2 on, 3/2 off",,Handspring fwd with 1⁄2 turn (180°) on – 11⁄2 turn (540°) off,1.23,36,No Salto,Front Handspring 1/2 On Entry
+13,"Front handspring 1/2 on, 2/1 off",,Handspring fwd with 1⁄2 turn (180°) on – 2/1 turn (720°) off,1.24,40,No Salto,Front Handspring 1/2 On Entry
+14,Front handspring 1/1 on,,Handspring fwd with 1/1 turn (360°) on – Handspring fwd off,1.3,36,No Salto,Front Handspring 1/2 On Entry
+15,"Front handspring 1/1 on, 1/1 off",,Handspring fwd with 1/1 turn (360°) on – 1/1 turn (360°) off,1.31,40,No Salto,Front Handspring 1/2 On Entry
+16,Round-off,,"Round-off, flic-flac on – repulsion off",1.4,24,No Salto,Round-Off Entry
+17,Round-off 1/2 on,,"Round-off, flic-flac with 1⁄2 turn (180°) on – Handspring fwd off",1.5,26,No Salto,Round-Off Entry
+18,"Round-off 1/2 on, 1/2 off",,"Round-off, flic-flac with 1⁄2 turn (180°) on –1⁄2 turn (180°) off",1.51,30,No Salto,Round-Off Entry
+19,"Round-off 1/2 on, 1/1 off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – 1/1 turn (360°) off",1.52,34,No Salto,Round-Off Entry
+20,"Round-off 1/2 on, 3/2 off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – 11⁄2 turn (540°) off",1.53,38,No Salto,Round-Off Entry
+21,Round-off 1/1 on,,"Round-off, flic-flac with 1/1 turn (360°) on – Repulsion off",1.6,28,No Salto,Round-Off Entry
+22,"Round-off 1/1 on, 1/2 off",,"Round-off, flic-flac with 1/1 turn (360°) on – 1⁄2 turn (180°) off",1.61,32,No Salto,Round-Off Entry
+23,"Round-off 1/1 on, 1/1 off",,"Round-off, flic-flac with 1/1 turn (360°) on –1/1 turn (360°) off",1.62,38,No Salto,Round-Off Entry
+24,"Front handspring,front tuck",Front tuck,Handspring fwd on – tucked salto fwd off,2.1,40,Front Handspring,
+25,Front handspring front tuck 1/2,Barani tucked,Handspring fwd on – tucked salto fwd with 1⁄2 turn (180°) off,2.11,44,Front Handspring,
+26,Front handspring 1/2 turn to back tuck,Cuervo,Handspring fwd on – 1⁄2 turn (180°) and tucked salto bwd off,2.11,44,Front Handspring,
+27,Front handspring front tuck 1/1,Front tuck 1/1,Handspring fwd on – tucked salto fwd with 1/1 turn (360°) off,2.12,48,Front Handspring,
+28,Front handspring front tuck 3/2,Rudi tucked,Handspring fwd on – tucked salto fwd with 11⁄2 turn (540°) off,2.13,52,Front Handspring,
+29,Front handspring front pike,Front pike,Handspring fwd on – piked salto fwd off,2.2,42,Front Handspring,
+30,Front handspring front pike 1/2,Barani piked,Handspring fwd on – piked salto fwd with 1⁄2 turn (180°) off,2.21,46,Front Handspring,
+31,Front handspring 1/2 turn to back pike,Cuervo II,Handspring fwd on – 1⁄2 turn (180°) and piked salto bwd off,2.21,46,Front Handspring,
+32,Front handspring front pike 1/1,Front pike 1/1,Handspring fwd on – piked salto fwd with 1/1 turn (360°) off,2.22,50,Front Handspring,
+33,Front handspring front layout,Front layout,Handspring fwd on – stretched salto fwd off,2.3,46,Front Handspring,
+34,Front handspring front layout 1/2,Barani,Handspring fwd on – stretched salto fwd with 1⁄2 turn (180°) off,2.31,50,Front Handspring,
+35,Front handspring front layout 1/1,Front layout 1/1,Handspring fwd on – stretched salto fwd with 1/1 turn (360°) off,2.32,54,Front Handspring,
+36,Front handspring front layout 3/2,Rudi,Handspring fwd on – stretched salto fwd with 11⁄2 turn (540°) off,2.33,58,Front Handspring,
+37,Front handspring front layout 2/1,Yeo,Handspring fwd on – stretched salto fwd with 2/1 turn (720°) off,2.34,62,Front Handspring,
+38,"Front handspring 1/1 on, front tuck off",,Handspring fwd with 1/1 turn (360°) on – tucked salto fwd off,2.4,52,Front Handspring,
+39,"Front handspring 1/1 on, front pike off",,Handspring fwd with 1/1 turn (360°) on – piked salto fwd off,2.41,56,Front Handspring,
+40,Front handspring double front tuck,Produnova,Handspring fwd on – tucked double salto fwd off,2.5,64,Front Handspring,
+41,Tsukahara back tuck,Tsukahara tucked,Tsukahara tucked,3.1,35,Tsukahara,
+42,Tsukahara back tuck 1/2,Tsukahara tucked half,Tsukahara tucked with 1⁄2 turn (180°) off,3.11,38,Tsukahara,
+43,Tsukahara back tuck 1/1,Tsukahara tucked full,Tsukahara tucked with 1/1 turn (360°) off,3.12,41,Tsukahara,
+44,Tsukahara back tuck 3/2,Tsukahara tucked 1 1/2,Tsukahara tucked with 11⁄2 turn (540°) off,3.13,44,Tsukahara,
+45,Tsukahara back tuck 2/1,Tsukahara tucked double full,Tsukahara tucked with 2/1 turn (720°) off,3.14,49,Tsukahara,
+46,Tsukahara back pike,Tsukahara piked,Tsukahara piked,3.2,37,Tsukahara,
+47,Tsukahara back layout,Tsukahara laid-out,Tsukahara stretched,3.3,42,Tsukahara,
+48,Tsukahara back layout 1/2,Half-twisting Tsukahara,Tsukahara stretched with 1⁄2 turn (180°) off,3.31,44,Tsukahara,
+49,Tsukahara back layout 1/1,Full-twisting Tsukahara,Tsukahara stretched with 1/1 turn (360°) off,3.32,48,Tsukahara,
+50,Tsukahara back layout 3/2,One-and-a-half-twisting Tsukahara,Tsukahara stretched with 11⁄2 turn (540°) off,3.33,52,Tsukahara,
+51,Tsukahara back layout 2/1,Double-twisting Tsukahara,Tsukahara stretched with 2/1 turn (720°) off,3.34,56,Tsukahara,
+52,Tsukahara back layout 5/2,Two-and-a-half-twisting Tsukahara,Tsukahara stretched with 21⁄2 turn (900°) off,3.35,60,Tsukahara,
+53,Yurchenko back tuck,Yurchenko tucked,"Round-off, flic-flac on – tucked salto bwd off",4.1,33,Yurchenko,Tucked
+54,Yurchenko back tuck 1/2,Yurchenko tucked half,"Round-off, flic-flac on – tucked salto bwd with 1⁄2 turn (180°) off",4.11,36,Yurchenko,Tucked
+55,Yurchenko back tuck 1/1,Yurchenko tucked full,"Round-off, flic-flac on - tucked salto bwd with 1/1 turn (360°) off",4.12,39,Yurchenko,Tucked
+56,Yurchenko back tuck 3/2,Yurchenko tucked 1 1/2,"Round-off, flic-flac on – tucked salto bwd with 11⁄2 turn (540°) off",4.13,42,Yurchenko,Tucked
+57,Yurchenko back tuck 2/1,Yurchenko tucked double full,"Round-off, flic-flac on – tucked salto bwd with 2/1 turn (720°) off",4.14,47,Yurchenko,Tucked
+58,Yurchenko back pike,Yurchenko piked,"Round-off, flic-flac on – piked salto bwd off",4.2,35,Yurchenko,Piked
+59,Yurchenko back layout,Yurchenko laid-out,"Round-off, flic-flac on – stretched salto bwd off",4.3,40,Yurchenko,Laid-Out
+60,Yurchenko back layout 1/2,Half-twisting Yurchenko,"Round-off, flic-flac on – stretched salto bwd with 1⁄2 turn (180°) off",4.31,42,Yurchenko,Laid-Out
+61,Yurchenko back layout 1/1,Full-twisting Yurchenko,"Round-off, flic-flac on – stretched salto bwd with 1/1 turn (360°) off",4.32,46,Yurchenko,Laid-Out
+62,Yurchenko back layout 3/2,One-and-a-half-twisting Yurchenko,"Round-off, flic-flac on – stretched salto bwd with 11⁄2 turn (540°) off",4.33,50,Yurchenko,Laid-Out
+63,Yurchenko back layout 2/1,Double-twisting Yurchenko,"Round-off, flic-flac on – stretched salto bwd with 2/1 turn (720°) off",4.34,54,Yurchenko,Laid-Out
+64,Yurchenko back layout 5/2,Amanar,"Round-off, flic-flac on –stretched salto bwd with 21⁄2 turn (900°) off",4.35,58,Yurchenko,Laid-Out
+65,"Yurchenko 3/4 on, back tuck off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – tucked salto bwd off",4.4,40,Yurchenko,With 3/4 Twist On
+66,"Yurchenko 3/4 on, back tuck 1/2 off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – tucked salto bwd with 1⁄2 turn (180°) off",4.41,44,Yurchenko,With 3/4 Twist On
+67,"Yurchenko 3/4 on, back tuck 1/1 off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – tucked salto bwd with 1/1 turn (360°) off",4.42,46,Yurchenko,With 3/4 Twist On
+68,"Yurchenko 3/4 on, back pike off",,"Round-off, flic-flac 3⁄4 turn (270°) on – piked salto bwd off",4.5,42,Yurchenko,With 3/4 Twist On
+69,"Yurchenko 3/4 on, back layout off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – stretched salto bwd off",4.51,46,Yurchenko,With 3/4 Twist On
+70,"Yurchenko 3/4 on, back layout 1/2 off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – stretched salto bwd with 1⁄2 turn (180°) off",4.52,50,Yurchenko,With 3/4 Twist On
+71,"Yurchenko 3/4 on, back layout 1/1 off",,"Round-off, flic-flac with 3⁄4 turn (270°) on – stretched salto bwd with 1/1 turn (360°) off",4.53,54,Yurchenko,With 3/4 Twist On
+72,"Yurchenko 1/2 on, front tuck off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – tucked salto fwd off",5.1,42,Yurchenko Half-On,
+73,"Yurchenko 1/2 on, front tuck 1/2 off","Yurchenko 1/2 on, tucked Rudi off","Round-off, flic-flac with 1⁄2 turn (180°) on – tucked salto fwd with 1⁄2 turn (180°) off",5.11,46,Yurchenko Half-On,
+74,"Yurchenko 1/2 on, 1/2 turn to back tuck off",,"Round-off, flic-flac with 1⁄2 turn (180°) on  – 1⁄2 turn (180°) and tucked salto bwd off",5.11,46,Yurchenko Half-On,
+75,"Yurchenko 1/2 on, front tuck 1/1 off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – tucked salto fwd with 1/1 turn (360°) off",5.12,50,Yurchenko Half-On,
+76,"Yurchenko 1/2 on, front tuck 3/2 off",Khorkina,Round-off flic-flac with 1⁄2 turn (180°) - tucked salto fwd with 11⁄2 turn (540°) off,5.13,54,Yurchenko Half-On,
+77,"Yurchenko 1/2 on, front pike off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – piked salto fwd off",5.2,44,Yurchenko Half-On,
+78,"Yurchenko 1/2 on, front pike 1/2 off",Podkopayeva,"Round-off, flic-flac with 1⁄2 turn (180°) on – piked salto fwd with 1⁄2 turn (180°) off",5.21,48,Yurchenko Half-On,
+79,"Yurchenko 1/2 on, 1/2 turn to back pike off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – 1⁄2 turn (180°) and piked salto bwd off",5.21,48,Yurchenko Half-On,
+80,"Yurchenko 1/2 on, front pike 1/1 off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – piked salto fwd with 1/1 turn (360°) off",5.22,52,Yurchenko Half-On,
+81,"Yurchenko 1/2 on, front layout off",,"Round-off, flic-flac with 1⁄2 turn (180°) on – stretched salto fwd off",5.3,48,Yurchenko Half-On,
+82,"Yurchenko 1/2 on, front layout 1/2 off",Lopez,"Round-off, flic-flac with 1⁄2 turn (180°) on – salto fwd stretched with 1⁄2 turn (180°) off",5.31,52,Yurchenko Half-On,
+83,"Yurchenko 1/2 on, front layout 1/1 off",,Round-off flic-flac with 1⁄2 turn (180°) on – stretched salto fwd with 1/1 turn (360°) off,5.32,56,Yurchenko Half-On,
+84,"Yurchenko 1/2 on, front layout 3/2 off",Cheng,Round-off flic-flac with 1⁄2 turn (180°) on – stretched salto fwd with 11⁄2 turn (540°) off,5.33,60,Yurchenko Half-On,
+85,"Yurchenko 1/2 on, front layout 2/1 off",Biles,Round-off flic-flac with 1⁄2 turn (180°) on – stretched salto fwd with 2/1 turn (720°) off,5.34,64,Yurchenko Half-On,
